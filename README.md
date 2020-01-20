@@ -10,17 +10,18 @@ When done, the user is alerted that the username list has been created.
 
 # Example usage*
 
-$ Enter file name with people's names: users.txt
-$ Enter file to write user names to: example.txt 
-$ All Finished, Your new Document is created (check your   folder)
+Enter file name with people's names: users.txt
+
+Enter file to write user names to: example.txt 
+All Finished, Your new Document is created (check your   folder)
 
 # Installation
 
-$ pipenv install
+pipenv install
 
 # Run
 
-$ pipenv run python usernamegenerator.py
+pipenv run python usernamegenerator.py
 
 # Compiling via pyinstaller
 
