@@ -26,3 +26,5 @@ $pipenv run python usernamegenerator-batch.py
 
 # Compiling via pyinstaller
 
+$ pyinstaller --onefile usernamegenerator-batch.py
+
