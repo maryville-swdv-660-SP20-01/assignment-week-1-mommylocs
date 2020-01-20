@@ -22,7 +22,7 @@ $pipenv install
 
 # Run
 
-$pipenv run python usernamegenerator.py
+$pipenv run python usernamegenerator-batch.py
 
 # Compiling via pyinstaller
 
