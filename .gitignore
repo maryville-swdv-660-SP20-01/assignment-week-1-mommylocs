@@ -352,3 +352,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+UserNameGenerator-Batch/users.txt
+UserNameGenerator-Batch/username-generator-batch.py
+UserNameGenerator-Batch/username-generator-batch.py
