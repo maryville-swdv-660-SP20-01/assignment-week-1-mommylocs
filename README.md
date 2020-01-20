@@ -4,7 +4,7 @@
 This program takes entered names from a internal text file and 
 creates username from the first initial and the users's last name into another file of the user's choice. 
 
-The user is asked to select the file with the peoples's first and last names. It hass been provided, "users.exe".  This can be updated, as long as the names are on individual lines and a space is between first and last name.
+The user is asked to select the file with the peoples's first and last names. It has been provided: "users.exe".  This can be updated, as long as the names are on individual lines and a space is between first and last name.
  
 When done, the user is alerted that the username list has been created. 
 
