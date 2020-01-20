@@ -8,11 +8,12 @@ The user is asked to select the file with the peoples's first and last names. It
  
 When done, the user is alerted that the username list has been created. 
 
-# Example usage*
+# Example usage
 
 Enter file name with people's names: users.txt
 
 Enter file to write user names to: example.txt 
+
 All Finished, Your new Document is created (check your   folder)
 
 # Installation
